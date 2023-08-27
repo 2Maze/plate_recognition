@@ -1,0 +1,4 @@
+CCPD2019-dl1
+checkpoints
+*.zip
+.ipynb_checkpoints
